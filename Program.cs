@@ -10,11 +10,15 @@ namespace CalculoIdade
         {
             bool dataNascimentoEhValida = false;
             DateTime dataNascimento = DateTime.Now;
+            string nome = "";
+
+            System.Console.WriteLine("Informe seu nome:");
+            nome = Console.ReadLine();
             while (!dataNascimentoEhValida)
             {
             // declarar variaveis de entrada ..
             int dia, mes, ano;
-            // fazer a leitura dos dados de entrada e fazer suas validacoes ..
+            // fazer a leitura dos dados de entrada e fazer suas validacoes .
             dia = LeiaValorNumerico("Informe o dia do nascimento: ");
             mes = LeiaValorNumerico("Informe o mes do nascimento: ");
             ano = LeiaValorNumerico("Informe o ano do nascimento: ");
@@ -38,11 +42,14 @@ namespace CalculoIdade
 
 
             // exibir a idade do usuario
-            System.Console.WriteLine($"Voce tem {idadeUsuario} anos de idade...");
-            System.Console.WriteLine($"Sua idade em dias é: {idadeEmDias}");
+            Console.Clear();
+            Console.WriteLine("");
+            System.Console.WriteLine($"{nome} voce tem {idadeUsuario} anos de idade...");
+            System.Console.WriteLine($"{nome} sua idade em dias é: {idadeEmDias}");
 
             
         }
+        // recebe e valida se o valor informado eh valido ...
         static int LeiaValorNumerico(string mensagemAoUsuario)
         {            
             bool numeroEhValido = false;
