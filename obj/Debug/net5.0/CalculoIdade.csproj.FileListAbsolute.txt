@@ -1,0 +1,16 @@
+C:\dev\CalculoIdade\bin\Debug\net5.0\CalculoIdade.exe
+C:\dev\CalculoIdade\bin\Debug\net5.0\CalculoIdade.deps.json
+C:\dev\CalculoIdade\bin\Debug\net5.0\CalculoIdade.runtimeconfig.json
+C:\dev\CalculoIdade\bin\Debug\net5.0\CalculoIdade.runtimeconfig.dev.json
+C:\dev\CalculoIdade\bin\Debug\net5.0\CalculoIdade.dll
+C:\dev\CalculoIdade\bin\Debug\net5.0\ref\CalculoIdade.dll
+C:\dev\CalculoIdade\bin\Debug\net5.0\CalculoIdade.pdb
+C:\dev\CalculoIdade\obj\Debug\net5.0\CalculoIdade.csprojAssemblyReference.cache
+C:\dev\CalculoIdade\obj\Debug\net5.0\CalculoIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CalculoIdade\obj\Debug\net5.0\CalculoIdade.AssemblyInfoInputs.cache
+C:\dev\CalculoIdade\obj\Debug\net5.0\CalculoIdade.AssemblyInfo.cs
+C:\dev\CalculoIdade\obj\Debug\net5.0\CalculoIdade.csproj.CoreCompileInputs.cache
+C:\dev\CalculoIdade\obj\Debug\net5.0\CalculoIdade.dll
+C:\dev\CalculoIdade\obj\Debug\net5.0\ref\CalculoIdade.dll
+C:\dev\CalculoIdade\obj\Debug\net5.0\CalculoIdade.pdb
+C:\dev\CalculoIdade\obj\Debug\net5.0\CalculoIdade.genruntimeconfig.cache
